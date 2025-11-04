@@ -1,6 +1,6 @@
 # Hell Let Loose – Backup & Restore
 
-DE:
+DE: 
 Hell Let Loose – Backup & Restore ist ein einfaches WinForms-Tool zum Sichern und Wiederherstellen der Hell Let Loose-Konfigurationsdateien.
 Es hilft Spielern, ihre individuellen Einstellungen (Grafik, Steuerung, Audio usw.) zu sichern, z. B. vor Neuinstallationen, Systemwechseln oder Tests mit verschiedenen Setups.
 
