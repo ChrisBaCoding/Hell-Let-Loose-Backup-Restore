@@ -10,6 +10,7 @@ Features:
 - mit einem Klick Backup erstellen
 - Gespeicherte Einstellungen mit einem Klick wiederherstellen
 - Übersichtliche und leichte Windows-Oberfläche
+- Im selben Verzeichnis wie die .exe-Datei werden die Sicherungs-Ordner erstellt
 
 Ideal für alle, die regelmäßig ihre Settings sichern möchten. 
 
@@ -35,6 +36,7 @@ Features:
 - One-click backup
 - One-click restoration of saved settings
 - Clear and easy-to-use Windows interface
+- The backup folders are created in the same directory as the .exe file
 
 Ideal for anyone who wants to regularly back up their settings. 
 
