@@ -16,7 +16,8 @@ Ideal für alle, die regelmäßig ihre Settings sichern möchten.
 ## 🔽 Download
 
 Die aktuelle Version kann hier heruntergeladen werden: 
-👉 [Download über Dropbox (Windows, ZIP)](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0)
+👉 [Download über Dropbox (Windows, ZIP)](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0)  
+Die .exe-Datei muss nicht installiert werden und kann direkt ausgeführt werden.
 
   
 -----------------------------------------------------------------------
@@ -40,4 +41,5 @@ Ideal for anyone who wants to regularly back up their settings.
 ## 🔽 Download
 
 The latest version can be downloaded here: 
-👉 [Download via Dropbox (Windows, ZIP)](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0)
+👉 [Download via Dropbox (Windows, ZIP)](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0)  
+The .exe file does not need to be installed and can be run directly.
