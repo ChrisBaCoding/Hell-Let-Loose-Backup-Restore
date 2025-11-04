@@ -36,4 +36,4 @@ Ideal for anyone who wants to regularly back up their settings.
 ## 🔽 Download
 
 The latest version can be downloaded here: 
-👉 [Download via Dropbox (Windows, ZIP)]([https://www.dropbox.com/s/DEIN_LINK?dl=1](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0))
+👉 [Download via Dropbox (Windows, ZIP)](https://www.dropbox.com/scl/fo/8dz3np36hng4ki75fz28b/ADSNjWr9NmIYx_JunYnoCpQ?rlkey=wdxwo2spcu1gcuj7qdvik4too&st=gvqpuagm&dl=0)
